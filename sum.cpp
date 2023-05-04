@@ -5,5 +5,5 @@ int a=3;
 int b=4;
 int c;
 c=a+b;
-cout<<c;
+cout<<"sum is :-  "<<c<< endl;
 }
